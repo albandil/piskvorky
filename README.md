@@ -3,6 +3,8 @@ Tic Tac Toe 3D
 
 A 4-by-4-by-4 three-dimensional version of Tic Tac Toe for two players (no AI).
 
+![](screenshot.png)
+
 Building:
 
     qmake-qt5
